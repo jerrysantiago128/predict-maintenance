@@ -2,7 +2,7 @@ import json
 import datetime
 import random
 
-def generate_temperature_data(num_entries=100, sensor_id_prefix="TEMP", min_temp=21, max_temp=33):
+def generate_temperature_data(num_entries=100, sensor_id_prefix="TEMP", min_temp=15, max_temp=30):
     """
     Generates a list of temperature sensor data entries in JSON format.
 
@@ -18,9 +18,9 @@ def generate_temperature_data(num_entries=100, sensor_id_prefix="TEMP", min_temp
 
     data = []
     for i in range(num_entries):
-        timestamp = datetime.datetime.now(datetime.UTC).isoformat()  # UTC timestamp in ISO format
-        sensor_id = f"{sensor_id_prefix}"  # Format sensor ID with leading zeros
-        temperature_celsius = round(random.uniform(min_temp, max_temp), 1) # Round to 1 decimal place
+        timestamp = datetime.datetime.now(datetime.UTC).isoformat()
+        sensor_id = f"{sensor_id_prefix}-{i + 1:03}"
+        temperature_celsius = round(random.uniform(min_temp, max_temp), 1)
         temperature_fahrenheit = round((temperature_celsius * 9/5) + 32, 1)
         notes = "Generated Temperature Data"
 
@@ -33,14 +33,4 @@ def generate_temperature_data(num_entries=100, sensor_id_prefix="TEMP", min_temp
         }
         data.append(entry)
 
-    return json.dumps(data, indent=2)  # Use indent for readability
-
-
-if __name__ == "__main__":
-    json_data = generate_temperature_data()
-    print(json_data)
-
-    # Optional: Save to a file
-    with open("100-temperature_data.json", "w") as f:
-        f.write(json_data)
-        print("Data saved to temperature_data.json")
+    return json.dumps(data, indent=2)
