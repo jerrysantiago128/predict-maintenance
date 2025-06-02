@@ -67,24 +67,24 @@
 
 The system collects:
 
-    Temperature data
-    Vibration data
-    Battery level data
-    Data is collected every 1 minute from each robot.
+  - Temperature data
+  - Vibration data
+  - Battery level data
+  - Data is collected every 1 minute from each robot.
 
 **Actors:** Data Collection Engine
 
 **UC-02:** Detect Anomaly
 
-    The system analyzes incoming sensor data.
-    Detects anomalies based on predefined threshold rules.
+  - The system analyzes incoming sensor data.
+  - Detects anomalies based on predefined threshold rules.
 
 **Actors:** Analysis Engine
 
 **UC-03:** Generate Alert
 
-    The system sends an alert when an anomaly is detected.
-    Alerts are displayed on the maintenance dashboard.
+  - The system sends an alert when an anomaly is detected.
+  - Alerts are displayed on the maintenance dashboard.
 
 **Actors:** Analysis Engine, Dashboard
 
@@ -92,8 +92,8 @@ The system collects:
 
 The maintenance team views a dashboard showing:
 
-    Real-time robot health status
-    Active alerts for each robot
+  - Real-time robot health status
+  - Active alerts for each robot
 
 **Actors:** Maintenance Team
 
@@ -101,8 +101,8 @@ The maintenance team views a dashboard showing:
 
 The maintenance team:
 
-    Acknowledges active alerts.
-    Marks issues as resolved after taking action.
+  - Acknowledges active alerts.
+  - Marks issues as resolved after taking action.
 
 **Actors:** Maintenance Team
 
@@ -110,8 +110,8 @@ The maintenance team:
 
 The system uses sample data (e.g., from Google Sheets or Python) to:
 
-    Simulate sensor inputs.
-    Verify alert logic and system behavior.
+  - Simulate sensor inputs.
+  - Verify alert logic and system behavior.
 
 **Actors:** Developer
 
