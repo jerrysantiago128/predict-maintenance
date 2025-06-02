@@ -2,7 +2,7 @@
 
 The objective of this project is to design a **Predictive Maintenance (PdM) system** for **IoT** Systems, enabling early detection of system or sensor failures in automated environments. The PdM system will collect and analyze IoT sensor data (temperature, vibration, battery levels, etc) to prevent unexpected downtime and optimize maintenance schedules.
 
-The intial effort will be to design the system as an assignment for KSU SWE 6733, but will be continually improved on, to allow for modular connectivity of multiple sensor types, 
+The intial effort will be to design the system as an assignment for **KSU SWE 6733**, but will be continually improved on, to allow for modular connectivity of multiple sensor types, 
 to further expand the ability to prevent unexpected downtime and optimize maintenance schedules.
 
 A future goal for the system is to create a working dashboard (real time or near real time) to display the desired data points and enable text, email, or another type of user notification implementation.
