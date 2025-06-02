@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": "2025-06-02T17:26:28.490595+00:00",
+    "sensor_id": "VIB-001",
+    "x_axis": -1.28,
+    "y_axis": -0.53,
+    "z_axis": -1.24,
+    "frequency": 65.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490648+00:00",
+    "sensor_id": "VIB-002",
+    "x_axis": 1.57,
+    "y_axis": 1.02,
+    "z_axis": -0.05,
+    "frequency": 91.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490667+00:00",
+    "sensor_id": "VIB-003",
+    "x_axis": -0.3,
+    "y_axis": -1.19,
+    "z_axis": -0.73,
+    "frequency": 80.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490678+00:00",
+    "sensor_id": "VIB-004",
+    "x_axis": -0.79,
+    "y_axis": 0.37,
+    "z_axis": 0.6,
+    "frequency": 71.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490688+00:00",
+    "sensor_id": "VIB-005",
+    "x_axis": -0.01,
+    "y_axis": -0.75,
+    "z_axis": -0.32,
+    "frequency": 17.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490697+00:00",
+    "sensor_id": "VIB-006",
+    "x_axis": 1.38,
+    "y_axis": 0.02,
+    "z_axis": 1.81,
+    "frequency": 20.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490707+00:00",
+    "sensor_id": "VIB-007",
+    "x_axis": -0.4,
+    "y_axis": 0.55,
+    "z_axis": 1.71,
+    "frequency": 96.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490717+00:00",
+    "sensor_id": "VIB-008",
+    "x_axis": -0.74,
+    "y_axis": -1.19,
+    "z_axis": -0.54,
+    "frequency": 85.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490727+00:00",
+    "sensor_id": "VIB-009",
+    "x_axis": -1.0,
+    "y_axis": 0.5,
+    "z_axis": -0.64,
+    "frequency": 48.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490737+00:00",
+    "sensor_id": "VIB-010",
+    "x_axis": -1.82,
+    "y_axis": -1.68,
+    "z_axis": -1.46,
+    "frequency": 96.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490746+00:00",
+    "sensor_id": "VIB-011",
+    "x_axis": 1.88,
+    "y_axis": 0.64,
+    "z_axis": 0.05,
+    "frequency": 15.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490755+00:00",
+    "sensor_id": "VIB-012",
+    "x_axis": 0.77,
+    "y_axis": 1.28,
+    "z_axis": -1.26,
+    "frequency": 70.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490763+00:00",
+    "sensor_id": "VIB-013",
+    "x_axis": 0.3,
+    "y_axis": -0.81,
+    "z_axis": 1.65,
+    "frequency": 96.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490772+00:00",
+    "sensor_id": "VIB-014",
+    "x_axis": 1.1,
+    "y_axis": 1.12,
+    "z_axis": 0.7,
+    "frequency": 28.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490785+00:00",
+    "sensor_id": "VIB-015",
+    "x_axis": 0.36,
+    "y_axis": -0.79,
+    "z_axis": -0.79,
+    "frequency": 96.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490798+00:00",
+    "sensor_id": "VIB-016",
+    "x_axis": -0.45,
+    "y_axis": 1.25,
+    "z_axis": 0.87,
+    "frequency": 82.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490808+00:00",
+    "sensor_id": "VIB-017",
+    "x_axis": 1.02,
+    "y_axis": -0.74,
+    "z_axis": 1.52,
+    "frequency": 14.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490818+00:00",
+    "sensor_id": "VIB-018",
+    "x_axis": -0.52,
+    "y_axis": 0.71,
+    "z_axis": -0.54,
+    "frequency": 68.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490828+00:00",
+    "sensor_id": "VIB-019",
+    "x_axis": 1.41,
+    "y_axis": 1.45,
+    "z_axis": 1.29,
+    "frequency": 63.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490836+00:00",
+    "sensor_id": "VIB-020",
+    "x_axis": 0.47,
+    "y_axis": -0.15,
+    "z_axis": -1.73,
+    "frequency": 43.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490846+00:00",
+    "sensor_id": "VIB-021",
+    "x_axis": -1.92,
+    "y_axis": 0.66,
+    "z_axis": 0.44,
+    "frequency": 73.0,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490859+00:00",
+    "sensor_id": "VIB-022",
+    "x_axis": 0.05,
+    "y_axis": 1.58,
+    "z_axis": 1.47,
+    "frequency": 12.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490868+00:00",
+    "sensor_id": "VIB-023",
+    "x_axis": 1.86,
+    "y_axis": -0.35,
+    "z_axis": -1.97,
+    "frequency": 98.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490878+00:00",
+    "sensor_id": "VIB-024",
+    "x_axis": -1.01,
+    "y_axis": -0.47,
+    "z_axis": 1.88,
+    "frequency": 94.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490886+00:00",
+    "sensor_id": "VIB-025",
+    "x_axis": 1.33,
+    "y_axis": -0.52,
+    "z_axis": -1.49,
+    "frequency": 19.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490912+00:00",
+    "sensor_id": "VIB-026",
+    "x_axis": -0.7,
+    "y_axis": 1.35,
+    "z_axis": 1.17,
+    "frequency": 71.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490921+00:00",
+    "sensor_id": "VIB-027",
+    "x_axis": -0.81,
+    "y_axis": 0.02,
+    "z_axis": 0.12,
+    "frequency": 87.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490930+00:00",
+    "sensor_id": "VIB-028",
+    "x_axis": 0.43,
+    "y_axis": -0.55,
+    "z_axis": 1.94,
+    "frequency": 24.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490939+00:00",
+    "sensor_id": "VIB-029",
+    "x_axis": 0.9,
+    "y_axis": 0.46,
+    "z_axis": 1.27,
+    "frequency": 97.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490954+00:00",
+    "sensor_id": "VIB-030",
+    "x_axis": 0.88,
+    "y_axis": -0.01,
+    "z_axis": -1.46,
+    "frequency": 25.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490962+00:00",
+    "sensor_id": "VIB-031",
+    "x_axis": 1.56,
+    "y_axis": 1.47,
+    "z_axis": -1.39,
+    "frequency": 63.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490970+00:00",
+    "sensor_id": "VIB-032",
+    "x_axis": -0.46,
+    "y_axis": -0.41,
+    "z_axis": -1.95,
+    "frequency": 0.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490979+00:00",
+    "sensor_id": "VIB-033",
+    "x_axis": -1.76,
+    "y_axis": 1.73,
+    "z_axis": -1.43,
+    "frequency": 44.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.490990+00:00",
+    "sensor_id": "VIB-034",
+    "x_axis": 1.85,
+    "y_axis": 1.9,
+    "z_axis": 1.41,
+    "frequency": 7.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491002+00:00",
+    "sensor_id": "VIB-035",
+    "x_axis": 1.03,
+    "y_axis": 0.57,
+    "z_axis": 1.22,
+    "frequency": 71.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491011+00:00",
+    "sensor_id": "VIB-036",
+    "x_axis": -1.9,
+    "y_axis": -1.87,
+    "z_axis": -0.18,
+    "frequency": 36.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491022+00:00",
+    "sensor_id": "VIB-037",
+    "x_axis": 0.3,
+    "y_axis": -1.35,
+    "z_axis": -1.88,
+    "frequency": 1.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491038+00:00",
+    "sensor_id": "VIB-038",
+    "x_axis": 0.06,
+    "y_axis": -0.89,
+    "z_axis": -1.42,
+    "frequency": 61.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491047+00:00",
+    "sensor_id": "VIB-039",
+    "x_axis": 0.52,
+    "y_axis": 0.8,
+    "z_axis": 1.85,
+    "frequency": 90.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491060+00:00",
+    "sensor_id": "VIB-040",
+    "x_axis": 1.9,
+    "y_axis": 1.27,
+    "z_axis": 0.29,
+    "frequency": 10.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491075+00:00",
+    "sensor_id": "VIB-041",
+    "x_axis": -1.22,
+    "y_axis": 0.14,
+    "z_axis": -1.17,
+    "frequency": 26.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491092+00:00",
+    "sensor_id": "VIB-042",
+    "x_axis": 1.77,
+    "y_axis": 1.2,
+    "z_axis": -1.07,
+    "frequency": 85.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491105+00:00",
+    "sensor_id": "VIB-043",
+    "x_axis": -1.66,
+    "y_axis": 1.33,
+    "z_axis": -0.24,
+    "frequency": 98.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491161+00:00",
+    "sensor_id": "VIB-044",
+    "x_axis": -1.53,
+    "y_axis": -0.24,
+    "z_axis": 1.06,
+    "frequency": 32.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491186+00:00",
+    "sensor_id": "VIB-045",
+    "x_axis": -0.82,
+    "y_axis": 1.44,
+    "z_axis": 0.45,
+    "frequency": 86.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491342+00:00",
+    "sensor_id": "VIB-046",
+    "x_axis": 1.45,
+    "y_axis": 1.38,
+    "z_axis": 0.03,
+    "frequency": 57.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491374+00:00",
+    "sensor_id": "VIB-047",
+    "x_axis": -1.4,
+    "y_axis": -0.13,
+    "z_axis": 1.06,
+    "frequency": 37.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491398+00:00",
+    "sensor_id": "VIB-048",
+    "x_axis": -0.99,
+    "y_axis": -1.24,
+    "z_axis": -0.43,
+    "frequency": 29.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491414+00:00",
+    "sensor_id": "VIB-049",
+    "x_axis": 1.63,
+    "y_axis": 0.5,
+    "z_axis": -1.82,
+    "frequency": 89.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491428+00:00",
+    "sensor_id": "VIB-050",
+    "x_axis": 1.48,
+    "y_axis": 1.99,
+    "z_axis": 0.03,
+    "frequency": 53.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491443+00:00",
+    "sensor_id": "VIB-051",
+    "x_axis": 1.43,
+    "y_axis": -0.73,
+    "z_axis": 1.1,
+    "frequency": 33.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491459+00:00",
+    "sensor_id": "VIB-052",
+    "x_axis": 0.78,
+    "y_axis": 1.12,
+    "z_axis": 0.54,
+    "frequency": 23.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491473+00:00",
+    "sensor_id": "VIB-053",
+    "x_axis": 0.89,
+    "y_axis": -0.76,
+    "z_axis": 1.53,
+    "frequency": 19.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491487+00:00",
+    "sensor_id": "VIB-054",
+    "x_axis": 0.95,
+    "y_axis": 0.52,
+    "z_axis": 1.38,
+    "frequency": 16.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491500+00:00",
+    "sensor_id": "VIB-055",
+    "x_axis": 1.49,
+    "y_axis": 1.17,
+    "z_axis": 1.3,
+    "frequency": 16.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491513+00:00",
+    "sensor_id": "VIB-056",
+    "x_axis": 0.49,
+    "y_axis": 1.63,
+    "z_axis": -0.42,
+    "frequency": 33.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491526+00:00",
+    "sensor_id": "VIB-057",
+    "x_axis": -1.95,
+    "y_axis": 0.91,
+    "z_axis": 0.59,
+    "frequency": 96.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491543+00:00",
+    "sensor_id": "VIB-058",
+    "x_axis": -0.14,
+    "y_axis": 1.84,
+    "z_axis": 1.57,
+    "frequency": 75.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491558+00:00",
+    "sensor_id": "VIB-059",
+    "x_axis": 1.08,
+    "y_axis": -0.89,
+    "z_axis": 1.29,
+    "frequency": 37.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491571+00:00",
+    "sensor_id": "VIB-060",
+    "x_axis": 1.69,
+    "y_axis": -1.1,
+    "z_axis": 0.16,
+    "frequency": 98.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491626+00:00",
+    "sensor_id": "VIB-061",
+    "x_axis": -1.32,
+    "y_axis": 0.07,
+    "z_axis": -0.27,
+    "frequency": 25.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491645+00:00",
+    "sensor_id": "VIB-062",
+    "x_axis": 0.56,
+    "y_axis": 1.88,
+    "z_axis": -0.45,
+    "frequency": 55.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491663+00:00",
+    "sensor_id": "VIB-063",
+    "x_axis": -0.02,
+    "y_axis": -0.3,
+    "z_axis": 1.32,
+    "frequency": 70.0,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491679+00:00",
+    "sensor_id": "VIB-064",
+    "x_axis": -0.45,
+    "y_axis": 1.78,
+    "z_axis": -0.0,
+    "frequency": 96.0,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491701+00:00",
+    "sensor_id": "VIB-065",
+    "x_axis": -1.65,
+    "y_axis": -1.79,
+    "z_axis": 0.0,
+    "frequency": 86.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491733+00:00",
+    "sensor_id": "VIB-066",
+    "x_axis": 1.92,
+    "y_axis": -0.85,
+    "z_axis": -0.63,
+    "frequency": 33.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491768+00:00",
+    "sensor_id": "VIB-067",
+    "x_axis": -0.56,
+    "y_axis": -0.29,
+    "z_axis": 1.66,
+    "frequency": 92.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491802+00:00",
+    "sensor_id": "VIB-068",
+    "x_axis": 0.01,
+    "y_axis": -0.24,
+    "z_axis": -1.57,
+    "frequency": 15.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491851+00:00",
+    "sensor_id": "VIB-069",
+    "x_axis": -0.6,
+    "y_axis": 1.91,
+    "z_axis": -1.66,
+    "frequency": 75.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491894+00:00",
+    "sensor_id": "VIB-070",
+    "x_axis": 1.52,
+    "y_axis": 1.57,
+    "z_axis": 1.4,
+    "frequency": 67.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491933+00:00",
+    "sensor_id": "VIB-071",
+    "x_axis": -1.68,
+    "y_axis": -0.57,
+    "z_axis": 0.73,
+    "frequency": 57.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491950+00:00",
+    "sensor_id": "VIB-072",
+    "x_axis": -0.57,
+    "y_axis": 0.43,
+    "z_axis": 1.13,
+    "frequency": 50.5,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.491996+00:00",
+    "sensor_id": "VIB-073",
+    "x_axis": 1.41,
+    "y_axis": -1.04,
+    "z_axis": -0.62,
+    "frequency": 13.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492015+00:00",
+    "sensor_id": "VIB-074",
+    "x_axis": 0.33,
+    "y_axis": 1.51,
+    "z_axis": 1.45,
+    "frequency": 42.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492035+00:00",
+    "sensor_id": "VIB-075",
+    "x_axis": 0.26,
+    "y_axis": 0.92,
+    "z_axis": -0.14,
+    "frequency": 9.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492053+00:00",
+    "sensor_id": "VIB-076",
+    "x_axis": -1.1,
+    "y_axis": 1.3,
+    "z_axis": 0.54,
+    "frequency": 18.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492093+00:00",
+    "sensor_id": "VIB-077",
+    "x_axis": 1.05,
+    "y_axis": -1.65,
+    "z_axis": -1.61,
+    "frequency": 74.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492116+00:00",
+    "sensor_id": "VIB-078",
+    "x_axis": -1.78,
+    "y_axis": -0.38,
+    "z_axis": -0.21,
+    "frequency": 81.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492128+00:00",
+    "sensor_id": "VIB-079",
+    "x_axis": 1.27,
+    "y_axis": 0.84,
+    "z_axis": 0.58,
+    "frequency": 3.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492149+00:00",
+    "sensor_id": "VIB-080",
+    "x_axis": -1.3,
+    "y_axis": -1.96,
+    "z_axis": 0.07,
+    "frequency": 54.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492171+00:00",
+    "sensor_id": "VIB-081",
+    "x_axis": -0.45,
+    "y_axis": -0.26,
+    "z_axis": 1.59,
+    "frequency": 16.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492177+00:00",
+    "sensor_id": "VIB-082",
+    "x_axis": 1.1,
+    "y_axis": -0.13,
+    "z_axis": 0.56,
+    "frequency": 84.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492183+00:00",
+    "sensor_id": "VIB-083",
+    "x_axis": -0.02,
+    "y_axis": -1.82,
+    "z_axis": -1.77,
+    "frequency": 40.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492189+00:00",
+    "sensor_id": "VIB-084",
+    "x_axis": -0.36,
+    "y_axis": 1.01,
+    "z_axis": 1.64,
+    "frequency": 49.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492195+00:00",
+    "sensor_id": "VIB-085",
+    "x_axis": -1.43,
+    "y_axis": 0.32,
+    "z_axis": -0.58,
+    "frequency": 16.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492200+00:00",
+    "sensor_id": "VIB-086",
+    "x_axis": 0.4,
+    "y_axis": -1.54,
+    "z_axis": 0.97,
+    "frequency": 14.8,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492206+00:00",
+    "sensor_id": "VIB-087",
+    "x_axis": 1.61,
+    "y_axis": 1.65,
+    "z_axis": 0.67,
+    "frequency": 32.2,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492212+00:00",
+    "sensor_id": "VIB-088",
+    "x_axis": -0.67,
+    "y_axis": 0.69,
+    "z_axis": 0.71,
+    "frequency": 75.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492216+00:00",
+    "sensor_id": "VIB-089",
+    "x_axis": 0.88,
+    "y_axis": -0.94,
+    "z_axis": 0.65,
+    "frequency": 95.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492222+00:00",
+    "sensor_id": "VIB-090",
+    "x_axis": 0.63,
+    "y_axis": 0.88,
+    "z_axis": -1.08,
+    "frequency": 14.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492227+00:00",
+    "sensor_id": "VIB-091",
+    "x_axis": -0.52,
+    "y_axis": -1.74,
+    "z_axis": -0.05,
+    "frequency": 14.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492232+00:00",
+    "sensor_id": "VIB-092",
+    "x_axis": -1.78,
+    "y_axis": 0.2,
+    "z_axis": 1.75,
+    "frequency": 66.0,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492237+00:00",
+    "sensor_id": "VIB-093",
+    "x_axis": 0.82,
+    "y_axis": -1.97,
+    "z_axis": 1.94,
+    "frequency": 19.6,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492244+00:00",
+    "sensor_id": "VIB-094",
+    "x_axis": 1.97,
+    "y_axis": -0.64,
+    "z_axis": -0.07,
+    "frequency": 46.7,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492249+00:00",
+    "sensor_id": "VIB-095",
+    "x_axis": 0.99,
+    "y_axis": 0.3,
+    "z_axis": -0.3,
+    "frequency": 19.1,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492255+00:00",
+    "sensor_id": "VIB-096",
+    "x_axis": -0.54,
+    "y_axis": 0.21,
+    "z_axis": 0.98,
+    "frequency": 17.3,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492260+00:00",
+    "sensor_id": "VIB-097",
+    "x_axis": -0.13,
+    "y_axis": 0.29,
+    "z_axis": 1.23,
+    "frequency": 39.4,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492266+00:00",
+    "sensor_id": "VIB-098",
+    "x_axis": -1.96,
+    "y_axis": -1.17,
+    "z_axis": 0.17,
+    "frequency": 81.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492271+00:00",
+    "sensor_id": "VIB-099",
+    "x_axis": 1.82,
+    "y_axis": -1.72,
+    "z_axis": -0.08,
+    "frequency": 27.9,
+    "notes": "Generated Vibration Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.492282+00:00",
+    "sensor_id": "VIB-100",
+    "x_axis": -1.78,
+    "y_axis": -0.17,
+    "z_axis": -1.48,
+    "frequency": 6.3,
+    "notes": "Generated Vibration Data"
+  }
+]

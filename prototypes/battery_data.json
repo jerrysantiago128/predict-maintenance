@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": "2025-06-02T17:26:28.473143+00:00",
+    "sensor_id": "BAT-001",
+    "battery_level": 89,
+    "voltage": 3.3,
+    "current": 0.73,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473203+00:00",
+    "sensor_id": "BAT-002",
+    "battery_level": 59,
+    "voltage": 4.02,
+    "current": -0.15,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473247+00:00",
+    "sensor_id": "BAT-003",
+    "battery_level": 97,
+    "voltage": 3.71,
+    "current": 0.01,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473264+00:00",
+    "sensor_id": "BAT-004",
+    "battery_level": 73,
+    "voltage": 3.92,
+    "current": -0.24,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473281+00:00",
+    "sensor_id": "BAT-005",
+    "battery_level": 29,
+    "voltage": 3.94,
+    "current": 0.26,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473294+00:00",
+    "sensor_id": "BAT-006",
+    "battery_level": 59,
+    "voltage": 3.81,
+    "current": 0.24,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473305+00:00",
+    "sensor_id": "BAT-007",
+    "battery_level": 23,
+    "voltage": 3.87,
+    "current": -0.13,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473312+00:00",
+    "sensor_id": "BAT-008",
+    "battery_level": 45,
+    "voltage": 3.42,
+    "current": 0.8,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473320+00:00",
+    "sensor_id": "BAT-009",
+    "battery_level": 87,
+    "voltage": 4.0,
+    "current": 0.97,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473347+00:00",
+    "sensor_id": "BAT-010",
+    "battery_level": 45,
+    "voltage": 4.16,
+    "current": 0.11,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473360+00:00",
+    "sensor_id": "BAT-011",
+    "battery_level": 77,
+    "voltage": 3.71,
+    "current": 0.84,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473374+00:00",
+    "sensor_id": "BAT-012",
+    "battery_level": 70,
+    "voltage": 3.89,
+    "current": -0.33,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473410+00:00",
+    "sensor_id": "BAT-013",
+    "battery_level": 37,
+    "voltage": 3.68,
+    "current": 0.12,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473420+00:00",
+    "sensor_id": "BAT-014",
+    "battery_level": 82,
+    "voltage": 3.91,
+    "current": -0.06,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473425+00:00",
+    "sensor_id": "BAT-015",
+    "battery_level": 91,
+    "voltage": 4.16,
+    "current": -0.09,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473429+00:00",
+    "sensor_id": "BAT-016",
+    "battery_level": 71,
+    "voltage": 4.01,
+    "current": 0.06,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473434+00:00",
+    "sensor_id": "BAT-017",
+    "battery_level": 42,
+    "voltage": 3.75,
+    "current": 0.12,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473439+00:00",
+    "sensor_id": "BAT-018",
+    "battery_level": 43,
+    "voltage": 4.1,
+    "current": 0.14,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473443+00:00",
+    "sensor_id": "BAT-019",
+    "battery_level": 74,
+    "voltage": 3.7,
+    "current": 0.99,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473447+00:00",
+    "sensor_id": "BAT-020",
+    "battery_level": 20,
+    "voltage": 3.79,
+    "current": -0.25,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473452+00:00",
+    "sensor_id": "BAT-021",
+    "battery_level": 87,
+    "voltage": 3.79,
+    "current": 0.52,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473461+00:00",
+    "sensor_id": "BAT-022",
+    "battery_level": 43,
+    "voltage": 3.42,
+    "current": 0.71,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473466+00:00",
+    "sensor_id": "BAT-023",
+    "battery_level": 86,
+    "voltage": 3.26,
+    "current": -0.19,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473471+00:00",
+    "sensor_id": "BAT-024",
+    "battery_level": 97,
+    "voltage": 3.99,
+    "current": -0.12,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473475+00:00",
+    "sensor_id": "BAT-025",
+    "battery_level": 69,
+    "voltage": 3.41,
+    "current": -0.28,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473480+00:00",
+    "sensor_id": "BAT-026",
+    "battery_level": 79,
+    "voltage": 4.17,
+    "current": 0.11,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473500+00:00",
+    "sensor_id": "BAT-027",
+    "battery_level": 21,
+    "voltage": 3.67,
+    "current": 0.94,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473505+00:00",
+    "sensor_id": "BAT-028",
+    "battery_level": 50,
+    "voltage": 3.86,
+    "current": 0.02,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473509+00:00",
+    "sensor_id": "BAT-029",
+    "battery_level": 26,
+    "voltage": 4.11,
+    "current": 0.93,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473514+00:00",
+    "sensor_id": "BAT-030",
+    "battery_level": 20,
+    "voltage": 3.55,
+    "current": 0.45,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473518+00:00",
+    "sensor_id": "BAT-031",
+    "battery_level": 67,
+    "voltage": 3.25,
+    "current": 0.4,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473523+00:00",
+    "sensor_id": "BAT-032",
+    "battery_level": 82,
+    "voltage": 3.48,
+    "current": 0.86,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473527+00:00",
+    "sensor_id": "BAT-033",
+    "battery_level": 78,
+    "voltage": 3.18,
+    "current": 0.28,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473532+00:00",
+    "sensor_id": "BAT-034",
+    "battery_level": 24,
+    "voltage": 3.21,
+    "current": -0.11,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473536+00:00",
+    "sensor_id": "BAT-035",
+    "battery_level": 53,
+    "voltage": 3.26,
+    "current": 0.77,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473541+00:00",
+    "sensor_id": "BAT-036",
+    "battery_level": 49,
+    "voltage": 3.84,
+    "current": 0.3,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473545+00:00",
+    "sensor_id": "BAT-037",
+    "battery_level": 83,
+    "voltage": 3.59,
+    "current": 0.99,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473549+00:00",
+    "sensor_id": "BAT-038",
+    "battery_level": 71,
+    "voltage": 3.0,
+    "current": 0.43,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473554+00:00",
+    "sensor_id": "BAT-039",
+    "battery_level": 37,
+    "voltage": 3.66,
+    "current": 0.6,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473560+00:00",
+    "sensor_id": "BAT-040",
+    "battery_level": 79,
+    "voltage": 4.16,
+    "current": -0.32,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473566+00:00",
+    "sensor_id": "BAT-041",
+    "battery_level": 30,
+    "voltage": 4.03,
+    "current": 0.04,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473571+00:00",
+    "sensor_id": "BAT-042",
+    "battery_level": 57,
+    "voltage": 3.42,
+    "current": 0.06,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473576+00:00",
+    "sensor_id": "BAT-043",
+    "battery_level": 57,
+    "voltage": 3.76,
+    "current": -0.21,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473580+00:00",
+    "sensor_id": "BAT-044",
+    "battery_level": 88,
+    "voltage": 3.91,
+    "current": -0.25,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473584+00:00",
+    "sensor_id": "BAT-045",
+    "battery_level": 79,
+    "voltage": 3.35,
+    "current": 0.21,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473589+00:00",
+    "sensor_id": "BAT-046",
+    "battery_level": 89,
+    "voltage": 3.25,
+    "current": 0.44,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473593+00:00",
+    "sensor_id": "BAT-047",
+    "battery_level": 36,
+    "voltage": 3.54,
+    "current": -0.0,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473598+00:00",
+    "sensor_id": "BAT-048",
+    "battery_level": 72,
+    "voltage": 3.68,
+    "current": -0.08,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473602+00:00",
+    "sensor_id": "BAT-049",
+    "battery_level": 53,
+    "voltage": 3.22,
+    "current": -0.33,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473606+00:00",
+    "sensor_id": "BAT-050",
+    "battery_level": 56,
+    "voltage": 3.31,
+    "current": 0.57,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473611+00:00",
+    "sensor_id": "BAT-051",
+    "battery_level": 29,
+    "voltage": 3.75,
+    "current": 0.84,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473616+00:00",
+    "sensor_id": "BAT-052",
+    "battery_level": 41,
+    "voltage": 3.35,
+    "current": 0.54,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473620+00:00",
+    "sensor_id": "BAT-053",
+    "battery_level": 62,
+    "voltage": 3.25,
+    "current": -0.27,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473625+00:00",
+    "sensor_id": "BAT-054",
+    "battery_level": 39,
+    "voltage": 4.02,
+    "current": 0.29,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473629+00:00",
+    "sensor_id": "BAT-055",
+    "battery_level": 81,
+    "voltage": 3.11,
+    "current": -0.36,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473633+00:00",
+    "sensor_id": "BAT-056",
+    "battery_level": 45,
+    "voltage": 3.35,
+    "current": 0.11,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473638+00:00",
+    "sensor_id": "BAT-057",
+    "battery_level": 52,
+    "voltage": 3.8,
+    "current": 0.88,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473642+00:00",
+    "sensor_id": "BAT-058",
+    "battery_level": 85,
+    "voltage": 3.42,
+    "current": -0.36,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473647+00:00",
+    "sensor_id": "BAT-059",
+    "battery_level": 37,
+    "voltage": 3.01,
+    "current": 0.5,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473651+00:00",
+    "sensor_id": "BAT-060",
+    "battery_level": 41,
+    "voltage": 3.23,
+    "current": 0.94,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473657+00:00",
+    "sensor_id": "BAT-061",
+    "battery_level": 64,
+    "voltage": 3.2,
+    "current": 0.9,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473662+00:00",
+    "sensor_id": "BAT-062",
+    "battery_level": 32,
+    "voltage": 3.53,
+    "current": 0.77,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473668+00:00",
+    "sensor_id": "BAT-063",
+    "battery_level": 37,
+    "voltage": 3.66,
+    "current": 0.57,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473672+00:00",
+    "sensor_id": "BAT-064",
+    "battery_level": 60,
+    "voltage": 3.08,
+    "current": 0.14,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473676+00:00",
+    "sensor_id": "BAT-065",
+    "battery_level": 44,
+    "voltage": 3.45,
+    "current": 0.86,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473682+00:00",
+    "sensor_id": "BAT-066",
+    "battery_level": 62,
+    "voltage": 3.7,
+    "current": -0.48,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473687+00:00",
+    "sensor_id": "BAT-067",
+    "battery_level": 80,
+    "voltage": 3.92,
+    "current": 0.18,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473692+00:00",
+    "sensor_id": "BAT-068",
+    "battery_level": 28,
+    "voltage": 3.22,
+    "current": -0.19,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473696+00:00",
+    "sensor_id": "BAT-069",
+    "battery_level": 70,
+    "voltage": 3.87,
+    "current": 0.41,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473700+00:00",
+    "sensor_id": "BAT-070",
+    "battery_level": 87,
+    "voltage": 3.51,
+    "current": -0.12,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473705+00:00",
+    "sensor_id": "BAT-071",
+    "battery_level": 61,
+    "voltage": 4.0,
+    "current": 0.15,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473709+00:00",
+    "sensor_id": "BAT-072",
+    "battery_level": 36,
+    "voltage": 3.98,
+    "current": -0.42,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473714+00:00",
+    "sensor_id": "BAT-073",
+    "battery_level": 48,
+    "voltage": 3.24,
+    "current": -0.26,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473718+00:00",
+    "sensor_id": "BAT-074",
+    "battery_level": 100,
+    "voltage": 3.29,
+    "current": 0.15,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473723+00:00",
+    "sensor_id": "BAT-075",
+    "battery_level": 64,
+    "voltage": 3.52,
+    "current": -0.45,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473727+00:00",
+    "sensor_id": "BAT-076",
+    "battery_level": 58,
+    "voltage": 3.2,
+    "current": -0.45,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473732+00:00",
+    "sensor_id": "BAT-077",
+    "battery_level": 24,
+    "voltage": 3.44,
+    "current": -0.41,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473739+00:00",
+    "sensor_id": "BAT-078",
+    "battery_level": 73,
+    "voltage": 4.06,
+    "current": 0.08,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473744+00:00",
+    "sensor_id": "BAT-079",
+    "battery_level": 53,
+    "voltage": 3.65,
+    "current": 0.63,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473750+00:00",
+    "sensor_id": "BAT-080",
+    "battery_level": 81,
+    "voltage": 3.07,
+    "current": -0.41,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473756+00:00",
+    "sensor_id": "BAT-081",
+    "battery_level": 63,
+    "voltage": 3.77,
+    "current": 0.65,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473761+00:00",
+    "sensor_id": "BAT-082",
+    "battery_level": 68,
+    "voltage": 3.5,
+    "current": -0.46,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473767+00:00",
+    "sensor_id": "BAT-083",
+    "battery_level": 96,
+    "voltage": 3.77,
+    "current": -0.14,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473772+00:00",
+    "sensor_id": "BAT-084",
+    "battery_level": 76,
+    "voltage": 3.21,
+    "current": 0.55,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473778+00:00",
+    "sensor_id": "BAT-085",
+    "battery_level": 49,
+    "voltage": 3.52,
+    "current": -0.1,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473783+00:00",
+    "sensor_id": "BAT-086",
+    "battery_level": 36,
+    "voltage": 3.89,
+    "current": 0.02,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473788+00:00",
+    "sensor_id": "BAT-087",
+    "battery_level": 39,
+    "voltage": 3.92,
+    "current": -0.22,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473794+00:00",
+    "sensor_id": "BAT-088",
+    "battery_level": 22,
+    "voltage": 3.93,
+    "current": 0.83,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473800+00:00",
+    "sensor_id": "BAT-089",
+    "battery_level": 59,
+    "voltage": 3.84,
+    "current": 0.33,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473805+00:00",
+    "sensor_id": "BAT-090",
+    "battery_level": 70,
+    "voltage": 3.59,
+    "current": 0.56,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473811+00:00",
+    "sensor_id": "BAT-091",
+    "battery_level": 76,
+    "voltage": 3.5,
+    "current": 0.46,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473817+00:00",
+    "sensor_id": "BAT-092",
+    "battery_level": 60,
+    "voltage": 3.89,
+    "current": 0.11,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473822+00:00",
+    "sensor_id": "BAT-093",
+    "battery_level": 56,
+    "voltage": 3.81,
+    "current": -0.39,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473829+00:00",
+    "sensor_id": "BAT-094",
+    "battery_level": 55,
+    "voltage": 3.69,
+    "current": 0.94,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473836+00:00",
+    "sensor_id": "BAT-095",
+    "battery_level": 57,
+    "voltage": 3.77,
+    "current": 1.0,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473843+00:00",
+    "sensor_id": "BAT-096",
+    "battery_level": 55,
+    "voltage": 3.41,
+    "current": 0.3,
+    "charging_status": "Discharging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473848+00:00",
+    "sensor_id": "BAT-097",
+    "battery_level": 28,
+    "voltage": 3.42,
+    "current": -0.39,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473852+00:00",
+    "sensor_id": "BAT-098",
+    "battery_level": 71,
+    "voltage": 4.18,
+    "current": -0.17,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473857+00:00",
+    "sensor_id": "BAT-099",
+    "battery_level": 36,
+    "voltage": 3.56,
+    "current": 0.4,
+    "charging_status": "Idle",
+    "notes": "Generated Battery Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.473864+00:00",
+    "sensor_id": "BAT-100",
+    "battery_level": 66,
+    "voltage": 3.59,
+    "current": -0.29,
+    "charging_status": "Charging",
+    "notes": "Generated Battery Data"
+  }
+]
