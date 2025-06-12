@@ -7,6 +7,7 @@ graph TD
     DC[Data Collection Layer]
     DB[Data Storage]
     AE[Analysis Engine]
+  end
   subgraph UI
     MD[Maintenance Dashboard]
   end
