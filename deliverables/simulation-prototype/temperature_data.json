@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "2025-06-02T17:26:28.461198+00:00",
+    "sensor_id": "TEMP-001",
+    "temperature_celsius": 20.0,
+    "temperature_fahrenheit": 68.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461314+00:00",
+    "sensor_id": "TEMP-002",
+    "temperature_celsius": 22.9,
+    "temperature_fahrenheit": 73.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461333+00:00",
+    "sensor_id": "TEMP-003",
+    "temperature_celsius": 23.1,
+    "temperature_fahrenheit": 73.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461341+00:00",
+    "sensor_id": "TEMP-004",
+    "temperature_celsius": 18.3,
+    "temperature_fahrenheit": 64.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461348+00:00",
+    "sensor_id": "TEMP-005",
+    "temperature_celsius": 26.2,
+    "temperature_fahrenheit": 79.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461355+00:00",
+    "sensor_id": "TEMP-006",
+    "temperature_celsius": 23.1,
+    "temperature_fahrenheit": 73.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461381+00:00",
+    "sensor_id": "TEMP-007",
+    "temperature_celsius": 20.5,
+    "temperature_fahrenheit": 68.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461392+00:00",
+    "sensor_id": "TEMP-008",
+    "temperature_celsius": 29.1,
+    "temperature_fahrenheit": 84.4,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461398+00:00",
+    "sensor_id": "TEMP-009",
+    "temperature_celsius": 15.1,
+    "temperature_fahrenheit": 59.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461405+00:00",
+    "sensor_id": "TEMP-010",
+    "temperature_celsius": 16.8,
+    "temperature_fahrenheit": 62.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461417+00:00",
+    "sensor_id": "TEMP-011",
+    "temperature_celsius": 28.3,
+    "temperature_fahrenheit": 82.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461423+00:00",
+    "sensor_id": "TEMP-012",
+    "temperature_celsius": 21.4,
+    "temperature_fahrenheit": 70.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461437+00:00",
+    "sensor_id": "TEMP-013",
+    "temperature_celsius": 25.7,
+    "temperature_fahrenheit": 78.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461444+00:00",
+    "sensor_id": "TEMP-014",
+    "temperature_celsius": 27.3,
+    "temperature_fahrenheit": 81.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461450+00:00",
+    "sensor_id": "TEMP-015",
+    "temperature_celsius": 20.1,
+    "temperature_fahrenheit": 68.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461455+00:00",
+    "sensor_id": "TEMP-016",
+    "temperature_celsius": 27.0,
+    "temperature_fahrenheit": 80.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461462+00:00",
+    "sensor_id": "TEMP-017",
+    "temperature_celsius": 20.4,
+    "temperature_fahrenheit": 68.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461491+00:00",
+    "sensor_id": "TEMP-018",
+    "temperature_celsius": 17.7,
+    "temperature_fahrenheit": 63.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461497+00:00",
+    "sensor_id": "TEMP-019",
+    "temperature_celsius": 16.4,
+    "temperature_fahrenheit": 61.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461503+00:00",
+    "sensor_id": "TEMP-020",
+    "temperature_celsius": 17.8,
+    "temperature_fahrenheit": 64.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461509+00:00",
+    "sensor_id": "TEMP-021",
+    "temperature_celsius": 24.9,
+    "temperature_fahrenheit": 76.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461522+00:00",
+    "sensor_id": "TEMP-022",
+    "temperature_celsius": 19.7,
+    "temperature_fahrenheit": 67.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461528+00:00",
+    "sensor_id": "TEMP-023",
+    "temperature_celsius": 22.5,
+    "temperature_fahrenheit": 72.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461535+00:00",
+    "sensor_id": "TEMP-024",
+    "temperature_celsius": 20.9,
+    "temperature_fahrenheit": 69.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461541+00:00",
+    "sensor_id": "TEMP-025",
+    "temperature_celsius": 18.9,
+    "temperature_fahrenheit": 66.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461547+00:00",
+    "sensor_id": "TEMP-026",
+    "temperature_celsius": 16.7,
+    "temperature_fahrenheit": 62.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461555+00:00",
+    "sensor_id": "TEMP-027",
+    "temperature_celsius": 26.3,
+    "temperature_fahrenheit": 79.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461571+00:00",
+    "sensor_id": "TEMP-028",
+    "temperature_celsius": 28.1,
+    "temperature_fahrenheit": 82.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461577+00:00",
+    "sensor_id": "TEMP-029",
+    "temperature_celsius": 27.2,
+    "temperature_fahrenheit": 81.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461584+00:00",
+    "sensor_id": "TEMP-030",
+    "temperature_celsius": 17.2,
+    "temperature_fahrenheit": 63.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461601+00:00",
+    "sensor_id": "TEMP-031",
+    "temperature_celsius": 18.3,
+    "temperature_fahrenheit": 64.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461609+00:00",
+    "sensor_id": "TEMP-032",
+    "temperature_celsius": 27.8,
+    "temperature_fahrenheit": 82.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461622+00:00",
+    "sensor_id": "TEMP-033",
+    "temperature_celsius": 22.1,
+    "temperature_fahrenheit": 71.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461628+00:00",
+    "sensor_id": "TEMP-034",
+    "temperature_celsius": 17.8,
+    "temperature_fahrenheit": 64.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461635+00:00",
+    "sensor_id": "TEMP-035",
+    "temperature_celsius": 21.5,
+    "temperature_fahrenheit": 70.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461643+00:00",
+    "sensor_id": "TEMP-036",
+    "temperature_celsius": 23.9,
+    "temperature_fahrenheit": 75.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461649+00:00",
+    "sensor_id": "TEMP-037",
+    "temperature_celsius": 20.7,
+    "temperature_fahrenheit": 69.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461664+00:00",
+    "sensor_id": "TEMP-038",
+    "temperature_celsius": 29.6,
+    "temperature_fahrenheit": 85.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461670+00:00",
+    "sensor_id": "TEMP-039",
+    "temperature_celsius": 26.5,
+    "temperature_fahrenheit": 79.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461680+00:00",
+    "sensor_id": "TEMP-040",
+    "temperature_celsius": 29.5,
+    "temperature_fahrenheit": 85.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461686+00:00",
+    "sensor_id": "TEMP-041",
+    "temperature_celsius": 17.8,
+    "temperature_fahrenheit": 64.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461693+00:00",
+    "sensor_id": "TEMP-042",
+    "temperature_celsius": 24.3,
+    "temperature_fahrenheit": 75.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461715+00:00",
+    "sensor_id": "TEMP-043",
+    "temperature_celsius": 16.5,
+    "temperature_fahrenheit": 61.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461746+00:00",
+    "sensor_id": "TEMP-044",
+    "temperature_celsius": 25.7,
+    "temperature_fahrenheit": 78.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461752+00:00",
+    "sensor_id": "TEMP-045",
+    "temperature_celsius": 25.4,
+    "temperature_fahrenheit": 77.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461758+00:00",
+    "sensor_id": "TEMP-046",
+    "temperature_celsius": 22.0,
+    "temperature_fahrenheit": 71.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461771+00:00",
+    "sensor_id": "TEMP-047",
+    "temperature_celsius": 25.5,
+    "temperature_fahrenheit": 77.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461777+00:00",
+    "sensor_id": "TEMP-048",
+    "temperature_celsius": 28.8,
+    "temperature_fahrenheit": 83.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461841+00:00",
+    "sensor_id": "TEMP-049",
+    "temperature_celsius": 19.7,
+    "temperature_fahrenheit": 67.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461847+00:00",
+    "sensor_id": "TEMP-050",
+    "temperature_celsius": 17.0,
+    "temperature_fahrenheit": 62.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461854+00:00",
+    "sensor_id": "TEMP-051",
+    "temperature_celsius": 28.4,
+    "temperature_fahrenheit": 83.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461860+00:00",
+    "sensor_id": "TEMP-052",
+    "temperature_celsius": 19.0,
+    "temperature_fahrenheit": 66.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461866+00:00",
+    "sensor_id": "TEMP-053",
+    "temperature_celsius": 23.1,
+    "temperature_fahrenheit": 73.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461885+00:00",
+    "sensor_id": "TEMP-054",
+    "temperature_celsius": 18.8,
+    "temperature_fahrenheit": 65.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461907+00:00",
+    "sensor_id": "TEMP-055",
+    "temperature_celsius": 24.2,
+    "temperature_fahrenheit": 75.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461913+00:00",
+    "sensor_id": "TEMP-056",
+    "temperature_celsius": 30.0,
+    "temperature_fahrenheit": 86.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461922+00:00",
+    "sensor_id": "TEMP-057",
+    "temperature_celsius": 21.8,
+    "temperature_fahrenheit": 71.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461950+00:00",
+    "sensor_id": "TEMP-058",
+    "temperature_celsius": 23.2,
+    "temperature_fahrenheit": 73.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461957+00:00",
+    "sensor_id": "TEMP-059",
+    "temperature_celsius": 19.5,
+    "temperature_fahrenheit": 67.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461973+00:00",
+    "sensor_id": "TEMP-060",
+    "temperature_celsius": 17.0,
+    "temperature_fahrenheit": 62.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461982+00:00",
+    "sensor_id": "TEMP-061",
+    "temperature_celsius": 29.9,
+    "temperature_fahrenheit": 85.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461988+00:00",
+    "sensor_id": "TEMP-062",
+    "temperature_celsius": 22.7,
+    "temperature_fahrenheit": 72.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.461994+00:00",
+    "sensor_id": "TEMP-063",
+    "temperature_celsius": 27.5,
+    "temperature_fahrenheit": 81.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462007+00:00",
+    "sensor_id": "TEMP-064",
+    "temperature_celsius": 27.9,
+    "temperature_fahrenheit": 82.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462043+00:00",
+    "sensor_id": "TEMP-065",
+    "temperature_celsius": 15.8,
+    "temperature_fahrenheit": 60.4,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462053+00:00",
+    "sensor_id": "TEMP-066",
+    "temperature_celsius": 24.5,
+    "temperature_fahrenheit": 76.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462061+00:00",
+    "sensor_id": "TEMP-067",
+    "temperature_celsius": 18.2,
+    "temperature_fahrenheit": 64.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462068+00:00",
+    "sensor_id": "TEMP-068",
+    "temperature_celsius": 21.2,
+    "temperature_fahrenheit": 70.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462095+00:00",
+    "sensor_id": "TEMP-069",
+    "temperature_celsius": 29.4,
+    "temperature_fahrenheit": 84.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462135+00:00",
+    "sensor_id": "TEMP-070",
+    "temperature_celsius": 17.7,
+    "temperature_fahrenheit": 63.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462143+00:00",
+    "sensor_id": "TEMP-071",
+    "temperature_celsius": 24.8,
+    "temperature_fahrenheit": 76.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462149+00:00",
+    "sensor_id": "TEMP-072",
+    "temperature_celsius": 15.3,
+    "temperature_fahrenheit": 59.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462156+00:00",
+    "sensor_id": "TEMP-073",
+    "temperature_celsius": 29.5,
+    "temperature_fahrenheit": 85.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462162+00:00",
+    "sensor_id": "TEMP-074",
+    "temperature_celsius": 28.7,
+    "temperature_fahrenheit": 83.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462168+00:00",
+    "sensor_id": "TEMP-075",
+    "temperature_celsius": 17.5,
+    "temperature_fahrenheit": 63.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462174+00:00",
+    "sensor_id": "TEMP-076",
+    "temperature_celsius": 17.6,
+    "temperature_fahrenheit": 63.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462184+00:00",
+    "sensor_id": "TEMP-077",
+    "temperature_celsius": 20.1,
+    "temperature_fahrenheit": 68.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462196+00:00",
+    "sensor_id": "TEMP-078",
+    "temperature_celsius": 25.3,
+    "temperature_fahrenheit": 77.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462206+00:00",
+    "sensor_id": "TEMP-079",
+    "temperature_celsius": 19.1,
+    "temperature_fahrenheit": 66.4,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462216+00:00",
+    "sensor_id": "TEMP-080",
+    "temperature_celsius": 15.8,
+    "temperature_fahrenheit": 60.4,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462227+00:00",
+    "sensor_id": "TEMP-081",
+    "temperature_celsius": 21.6,
+    "temperature_fahrenheit": 70.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462237+00:00",
+    "sensor_id": "TEMP-082",
+    "temperature_celsius": 18.7,
+    "temperature_fahrenheit": 65.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462246+00:00",
+    "sensor_id": "TEMP-083",
+    "temperature_celsius": 19.0,
+    "temperature_fahrenheit": 66.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462253+00:00",
+    "sensor_id": "TEMP-084",
+    "temperature_celsius": 29.4,
+    "temperature_fahrenheit": 84.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462261+00:00",
+    "sensor_id": "TEMP-085",
+    "temperature_celsius": 26.4,
+    "temperature_fahrenheit": 79.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462271+00:00",
+    "sensor_id": "TEMP-086",
+    "temperature_celsius": 24.3,
+    "temperature_fahrenheit": 75.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462277+00:00",
+    "sensor_id": "TEMP-087",
+    "temperature_celsius": 20.9,
+    "temperature_fahrenheit": 69.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462300+00:00",
+    "sensor_id": "TEMP-088",
+    "temperature_celsius": 19.1,
+    "temperature_fahrenheit": 66.4,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462306+00:00",
+    "sensor_id": "TEMP-089",
+    "temperature_celsius": 16.7,
+    "temperature_fahrenheit": 62.1,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462316+00:00",
+    "sensor_id": "TEMP-090",
+    "temperature_celsius": 29.4,
+    "temperature_fahrenheit": 84.9,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462325+00:00",
+    "sensor_id": "TEMP-091",
+    "temperature_celsius": 20.3,
+    "temperature_fahrenheit": 68.5,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462334+00:00",
+    "sensor_id": "TEMP-092",
+    "temperature_celsius": 28.9,
+    "temperature_fahrenheit": 84.0,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462346+00:00",
+    "sensor_id": "TEMP-093",
+    "temperature_celsius": 21.5,
+    "temperature_fahrenheit": 70.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462353+00:00",
+    "sensor_id": "TEMP-094",
+    "temperature_celsius": 28.5,
+    "temperature_fahrenheit": 83.3,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462363+00:00",
+    "sensor_id": "TEMP-095",
+    "temperature_celsius": 26.8,
+    "temperature_fahrenheit": 80.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462369+00:00",
+    "sensor_id": "TEMP-096",
+    "temperature_celsius": 25.4,
+    "temperature_fahrenheit": 77.7,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462384+00:00",
+    "sensor_id": "TEMP-097",
+    "temperature_celsius": 22.0,
+    "temperature_fahrenheit": 71.6,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462391+00:00",
+    "sensor_id": "TEMP-098",
+    "temperature_celsius": 27.9,
+    "temperature_fahrenheit": 82.2,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462397+00:00",
+    "sensor_id": "TEMP-099",
+    "temperature_celsius": 16.0,
+    "temperature_fahrenheit": 60.8,
+    "notes": "Generated Temperature Data"
+  },
+  {
+    "timestamp": "2025-06-02T17:26:28.462403+00:00",
+    "sensor_id": "TEMP-100",
+    "temperature_celsius": 23.4,
+    "temperature_fahrenheit": 74.1,
+    "notes": "Generated Temperature Data"
+  }
+]
